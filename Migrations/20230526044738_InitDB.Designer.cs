@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ContosoUniversity.Migrations
 {
     [DbContext(typeof(SchoolContext))]
-    [Migration("20230523090626_ComplexDataModel")]
-    partial class ComplexDataModel
+    [Migration("20230526044738_InitDB")]
+    partial class InitDB
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -37,7 +37,6 @@ namespace ContosoUniversity.Migrations
                         .HasColumnType("int");
 
                     b.Property<string>("Title")
-                        .IsRequired()
                         .HasMaxLength(50)
                         .HasColumnType("nvarchar(50)");
 
@@ -81,6 +80,12 @@ namespace ContosoUniversity.Migrations
                         .IsRequired()
                         .HasMaxLength(50)
                         .HasColumnType("nvarchar(50)");
+
+                    b.Property<byte[]>("RowVersion")
+                        .IsConcurrencyToken()
+                        .IsRequired()
+                        .ValueGeneratedOnAddOrUpdate()
+                        .HasColumnType("rowversion");
 
                     b.Property<DateTime>("StartDate")
                         .HasColumnType("datetime2");
@@ -272,8 +277,7 @@ namespace ContosoUniversity.Migrations
                 {
                     b.Navigation("CourseAssignments");
 
-                    b.Navigation("OfficeAssignment")
-                        .IsRequired();
+                    b.Navigation("OfficeAssignment");
                 });
 
             modelBuilder.Entity("ContosoUniversity.Models.Student", b =>

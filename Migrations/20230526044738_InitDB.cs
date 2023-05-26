@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace ContosoUniversity.Migrations
 {
     /// <inheritdoc />
-    public partial class ComplexDataModel : Migration
+    public partial class InitDB : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -50,7 +50,8 @@ namespace ContosoUniversity.Migrations
                     Name = table.Column<string>(type: "nvarchar(50)", maxLength: 50, nullable: false),
                     Budget = table.Column<decimal>(type: "money", nullable: false),
                     StartDate = table.Column<DateTime>(type: "datetime2", nullable: false),
-                    InstructorID = table.Column<int>(type: "int", nullable: true)
+                    InstructorID = table.Column<int>(type: "int", nullable: true),
+                    RowVersion = table.Column<byte[]>(type: "rowversion", rowVersion: true, nullable: false)
                 },
                 constraints: table =>
                 {
@@ -85,7 +86,7 @@ namespace ContosoUniversity.Migrations
                 columns: table => new
                 {
                     CourseID = table.Column<int>(type: "int", nullable: false),
-                    Title = table.Column<string>(type: "nvarchar(50)", maxLength: 50, nullable: false),
+                    Title = table.Column<string>(type: "nvarchar(50)", maxLength: 50, nullable: true),
                     Credits = table.Column<int>(type: "int", nullable: false),
                     DepartmentID = table.Column<int>(type: "int", nullable: false)
                 },

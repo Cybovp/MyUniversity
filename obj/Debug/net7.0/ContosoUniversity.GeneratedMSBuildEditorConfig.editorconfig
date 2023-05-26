@@ -9,121 +9,121 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ContosoUniversity
 build_property.RootNamespace = ContosoUniversity
-build_property.ProjectDir = d:\New-dotNet-Project-main\University\ContosoUniversity\
+build_property.ProjectDir = D:\New-dotNet-Project-main\University\ContosoUniversity\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = d:\New-dotNet-Project-main\University\ContosoUniversity
+build_property.MSBuildProjectDirectory = D:\New-dotNet-Project-main\University\ContosoUniversity
 build_property._RazorSourceGeneratorDebug = 
 
-[d:/New-dotNet-Project-main/University/ContosoUniversity/Views/Courses/Create.cshtml]
+[D:/New-dotNet-Project-main/University/ContosoUniversity/Views/Courses/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/New-dotNet-Project-main/University/ContosoUniversity/Views/Courses/Delete.cshtml]
+[D:/New-dotNet-Project-main/University/ContosoUniversity/Views/Courses/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/New-dotNet-Project-main/University/ContosoUniversity/Views/Courses/Details.cshtml]
+[D:/New-dotNet-Project-main/University/ContosoUniversity/Views/Courses/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/New-dotNet-Project-main/University/ContosoUniversity/Views/Courses/Edit.cshtml]
+[D:/New-dotNet-Project-main/University/ContosoUniversity/Views/Courses/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/New-dotNet-Project-main/University/ContosoUniversity/Views/Courses/Index.cshtml]
+[D:/New-dotNet-Project-main/University/ContosoUniversity/Views/Courses/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/New-dotNet-Project-main/University/ContosoUniversity/Views/Departments/Create.cshtml]
+[D:/New-dotNet-Project-main/University/ContosoUniversity/Views/Departments/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/New-dotNet-Project-main/University/ContosoUniversity/Views/Departments/Delete.cshtml]
+[D:/New-dotNet-Project-main/University/ContosoUniversity/Views/Departments/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/New-dotNet-Project-main/University/ContosoUniversity/Views/Departments/Details.cshtml]
+[D:/New-dotNet-Project-main/University/ContosoUniversity/Views/Departments/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/New-dotNet-Project-main/University/ContosoUniversity/Views/Departments/Edit.cshtml]
+[D:/New-dotNet-Project-main/University/ContosoUniversity/Views/Departments/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/New-dotNet-Project-main/University/ContosoUniversity/Views/Departments/Index.cshtml]
+[D:/New-dotNet-Project-main/University/ContosoUniversity/Views/Departments/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/New-dotNet-Project-main/University/ContosoUniversity/Views/Home/About.cshtml]
+[D:/New-dotNet-Project-main/University/ContosoUniversity/Views/Home/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/New-dotNet-Project-main/University/ContosoUniversity/Views/Home/Index.cshtml]
+[D:/New-dotNet-Project-main/University/ContosoUniversity/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/New-dotNet-Project-main/University/ContosoUniversity/Views/Home/Privacy.cshtml]
+[D:/New-dotNet-Project-main/University/ContosoUniversity/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/New-dotNet-Project-main/University/ContosoUniversity/Views/Instructors/Create.cshtml]
+[D:/New-dotNet-Project-main/University/ContosoUniversity/Views/Instructors/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvcnNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/New-dotNet-Project-main/University/ContosoUniversity/Views/Instructors/Delete.cshtml]
+[D:/New-dotNet-Project-main/University/ContosoUniversity/Views/Instructors/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvcnNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/New-dotNet-Project-main/University/ContosoUniversity/Views/Instructors/Details.cshtml]
+[D:/New-dotNet-Project-main/University/ContosoUniversity/Views/Instructors/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvcnNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/New-dotNet-Project-main/University/ContosoUniversity/Views/Instructors/Edit.cshtml]
+[D:/New-dotNet-Project-main/University/ContosoUniversity/Views/Instructors/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvcnNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/New-dotNet-Project-main/University/ContosoUniversity/Views/Instructors/Index.cshtml]
+[D:/New-dotNet-Project-main/University/ContosoUniversity/Views/Instructors/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvcnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/New-dotNet-Project-main/University/ContosoUniversity/Views/Shared/Error.cshtml]
+[D:/New-dotNet-Project-main/University/ContosoUniversity/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/New-dotNet-Project-main/University/ContosoUniversity/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/New-dotNet-Project-main/University/ContosoUniversity/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/New-dotNet-Project-main/University/ContosoUniversity/Views/Students/Create.cshtml]
+[D:/New-dotNet-Project-main/University/ContosoUniversity/Views/Students/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/New-dotNet-Project-main/University/ContosoUniversity/Views/Students/Delete.cshtml]
+[D:/New-dotNet-Project-main/University/ContosoUniversity/Views/Students/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/New-dotNet-Project-main/University/ContosoUniversity/Views/Students/Details.cshtml]
+[D:/New-dotNet-Project-main/University/ContosoUniversity/Views/Students/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/New-dotNet-Project-main/University/ContosoUniversity/Views/Students/Edit.cshtml]
+[D:/New-dotNet-Project-main/University/ContosoUniversity/Views/Students/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/New-dotNet-Project-main/University/ContosoUniversity/Views/Students/Index.cshtml]
+[D:/New-dotNet-Project-main/University/ContosoUniversity/Views/Students/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/New-dotNet-Project-main/University/ContosoUniversity/Views/_ViewImports.cshtml]
+[D:/New-dotNet-Project-main/University/ContosoUniversity/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/New-dotNet-Project-main/University/ContosoUniversity/Views/_ViewStart.cshtml]
+[D:/New-dotNet-Project-main/University/ContosoUniversity/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/New-dotNet-Project-main/University/ContosoUniversity/Views/Shared/_Layout.cshtml]
+[D:/New-dotNet-Project-main/University/ContosoUniversity/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-5unqkpzokm
